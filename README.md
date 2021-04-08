@@ -8,6 +8,6 @@ as for breakfast I had bread and tea
 
 * Ex 2: add files (image)
 
-![uw dog](Dubs-7.jpg)
+![uw dog](Dubs-7.JPG)
 
 * Ex 3: play with branches
